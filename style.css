@@ -1,0 +1,30 @@
+a {
+    text-decoration: none;
+    color: skyblue;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+marquee {
+    font-size: 20px;
+}
+
+ul li a {
+    transition: all 0.25s;
+}
+
+.div_achiv {
+    font-size: 25px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    display: inline-block;
+    cursor: pointer;
+    width: 100%;
+}
+
+.div_achiv i {
+    float: right;
+}
